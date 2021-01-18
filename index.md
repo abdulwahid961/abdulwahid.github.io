@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="main.css">
-    <title>Abdulwahid</title>
+    <title>Document</title>
 </head>
 <body>
 <div class="body">
@@ -17,7 +17,7 @@
             </div>
             <nav>
                 <ul>
-                    <li><a href="#" class="active">Home</a></li>
+                    <li><a href="#">Home</a></li>
                     <li><a href="#projects" class="">Projects</a></li>
                     <li><a href="#about" class="">About</a></li>
                     <li><a href="#contactMe" class="">Contact</a></li>
