@@ -9,6 +9,9 @@
     --white:#fff;
     --text-black:#222;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     background-color: var(--black);
     font-family:sans-serif;
@@ -53,10 +56,6 @@ body{
     color: var(--white);
 }
 
-.top ul li a.active{
-    background-color: var(--black);
-    color: var(--white);
-}
 
 .divider{
     background-color: var(--black);
